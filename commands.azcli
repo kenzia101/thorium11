@@ -1,0 +1,2 @@
+# deploy an ARM template
+az deployment group create --resource-group chokominlo --template-file .json
